@@ -134,7 +134,7 @@
 <h2 align="center">License 📝</h2>
 
 <p align="center">
-   This repository is under MIT license. You can see the <a href="https://github.com/Palacios-OPTIMOS/AgendaContatos-Flutter/blob/main/LICENSE">LICENSE</a> file for more details.
+   This repository is under MIT license. You can see the <a href="https://github.com/Palacios-OPTIMOS/BuscadorGiphy-Flutter/blob/main/LICENSE">LICENSE</a> file for more details.
 </p>
 
 ---
