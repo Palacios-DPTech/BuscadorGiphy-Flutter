@@ -1,8 +1,8 @@
 <p align="center">
-      <img src="https://developers.giphy.com/branch/master/static/header-logo-8974b8ae658f704a5b48a2d039b8ad93.gif" width="70" alt="Gif Finder"/>
+      <img src="https://camo.githubusercontent.com/c0c5c3fcf6de87085c1867902aaede5685f0ac157855ad99115bbbe1994e5a15/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6865616465722d6c6f676f2d38393734623861653635386637303461356234386132643033396238616439332e676966" width="70" alt="Gif Finder"/>
 </p>
 
-<h1 align="center">Gif Findert</h1>
+<h1 align="center">Gif Finder</h1>
 
 <h2 align="center">Topics 📋</h2>
 
