@@ -80,7 +80,7 @@
 <h2 align="center">Challenges and Learnings along the way 🤯</h2>
 
    <p>
-   This project was challenging for me because  is one of the first one that i use This application for searching Gifs through the API provided by Giphy itself, very well          documented and structured.<br>
+   This project was challenging for me because  is one of the first one that I use an application for searching Gifs through the API provided by Giphy itself, very well          documented and structured.<br>
    My learning experience using APIs: I did well, despite the doubts I had about how to consult, I managed to understand the concept, and how to do it.
    Certainly with a lot of practice I will learn more and more about it.<br>
    I also learned a lot about new widgets, layouts, and logic. <br>
